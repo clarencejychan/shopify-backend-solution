@@ -1,0 +1,25 @@
+{
+  "name": "shopify-backend-solution",
+  "version": "1.0.0",
+  "description": "Shopify Back-end Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarencejychan/shopify-backend-solution.git"
+  },
+  "author": "Clarence Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarencejychan/shopify-backend-solution/issues"
+  },
+  "homepage": "https://github.com/clarencejychan/shopify-backend-solution#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "request": "^2.81.0"
+  }
+}
